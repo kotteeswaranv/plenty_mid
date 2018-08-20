@@ -12,6 +12,7 @@
  *
  */
 
+
 namespace Novalnetpayment\Migrations;
 
 use Plenty\Modules\Payment\Method\Contracts\PaymentMethodRepositoryContract;
