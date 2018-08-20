@@ -12,10 +12,10 @@
  *
  */
 
-namespace Novalnet\Migrations;
+namespace Novalnetpayment\Migrations;
 
 use Plenty\Modules\Payment\Method\Contracts\PaymentMethodRepositoryContract;
-use Novalnet\Helper\PaymentHelper;
+use Novalnetpayment\Helper\PaymentHelper;
 
 /**
  * Migration to create payment mehtods
